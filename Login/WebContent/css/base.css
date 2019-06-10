@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+header{
+	text-align:center;
+}
+
+h2{
+	text-align:center;
+	margin-top:50px;
+}
+
+.textbox{
+	text-align:center;
+}
+
+.button{
+	text-align:center;
+}
+
+.message{
+	text-align:center;
+}
